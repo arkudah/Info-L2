@@ -1,0 +1,22 @@
+body
+{
+	background-image: url("wall.gif");
+	background-position: center;
+}
+
+h1
+{
+	font-family: Arial;
+}
+
+p
+{
+	font-family: Verdana;
+}
+
+.imageflottante
+{
+	float: center;
+}
+
+

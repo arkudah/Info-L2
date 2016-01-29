@@ -1,0 +1,28 @@
+body
+{
+	background-image: url("Image/fond.jpg");
+	background-position: center;
+
+}
+h1
+{
+	text-align: center;
+	color: #b7b795;
+	border: 1px white dashed;
+
+}
+a:hover
+{
+	color: violet; 
+	text-decoration: bold;
+}
+
+a:focus
+{
+	color: red;
+}
+
+#menu
+{
+	justify-content: center;
+}

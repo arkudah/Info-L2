@@ -1,0 +1,94 @@
+body
+{
+	background-position: center;
+	background-color: white;
+}
+
+#histoire
+{
+	text-align: justify;
+	opacity: 0.8;
+	width: 700px;
+	margin: auto;
+
+}
+
+
+section
+{ 
+	display: flex;
+}
+
+h1
+{
+	text-align: center;
+	color: #b7b795;
+	border: 1px white dashed;
+
+}
+
+h3
+{
+	margin-left: 10px;
+}
+
+nav
+{
+	width: 30%;
+	margin-left: 2px;
+	color: black;
+}
+
+h2
+{
+	color: #b7b795;
+	border: 1px white dashed;
+	text-align: center;
+	border-radius: 10px;	
+}
+
+table
+{
+    border-collapse: collapse;
+    width: 30%;
+    background-color: #90C5D6 ;
+}
+
+td
+{
+    border: 1px solid black;
+}
+
+article
+{
+	background-color: #90C5D6;
+}
+
+#bas
+{
+	display: flex;
+	justify-content: center;
+}
+
+div
+{
+	margin: 10px;
+}
+
+
+a:hover
+{
+	color: violet; 
+	text-decoration: bold;
+}
+
+a:focus
+{
+	color: red;
+}
+
+a:link
+{
+	text-decoration: none;
+	color: black;
+}
